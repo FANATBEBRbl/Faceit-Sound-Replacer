@@ -5,7 +5,7 @@
 ## Описание
 Расширение для браузера, позволяющее заменить стандартные звуки принятия игры Faceit на свои.
 
-# [ДЛЯ УСТАНОВКИ В GOOGLE CHROME СЛЕДУЮЩИЕ ДЕЙСТВИЯ](https://telegra.ph/Vklyuchenie-Manifest-v2-v-Google-Chrome-07-17)
+# [ДЛЯ УСТАНОВКИ В GOOGLE CHROME ВЫПОЛНИТЕ СЛЕДУЮЩИЕ ДЕЙСТВИЯ](https://telegra.ph/Vklyuchenie-Manifest-v2-v-Google-Chrome-07-17)
 Расширение работает на Manifest v2, перенести его на Manifest v3 невозможно из за ограничения функционала расширений.
 
 ## Установка

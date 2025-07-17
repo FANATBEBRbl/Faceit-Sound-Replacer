@@ -1,9 +1,9 @@
 {
-  "Found tone": { "file": "custom.mp3", "label": "Помощь" },
+  "Found tone": { "file": "custom.mp3", "ru": "Найден тон", "label": "Помощь" },
   "Found tone enhanced": { "file": "custom1.mp3", "label": "Это АРМИЯ" },
-  "Large crowd": { "file": "custom2.mp3", "label": "🥺" },
-  "Lone wolf howling": { "file": "custom3.mp3", "label": "что они с тобой сделали..." },
-  "Radio impact swirl": { "file": "custom4.mp3", "label": "поверь мне" },
-  "Thunder clap": { "file": "custom5.mp3", "label": "Дайте мне еще раз сыграть" },
-  "Whoosh whip": { "file": "custom6.mp3", "label": "Чуть-чуть поддержки ^^" }
+  "Large crowd": { "file": "custom2.mp3", "ru": "Большая толпа", "label": "🥺" },
+  "Lone wolf howling": { "file": "custom3.mp3", "ru": "Вой одинокого волка", "label": "что они с тобой сделали..." },
+  "Radio impact swirl": { "file": "custom4.mp3", "ru": "Радио-вихрь", "label": "поверь мне" },
+  "Thunder clap": { "file": "custom5.mp3", "ru": "Гром", "label": "Дайте мне еще раз сыграть" },
+  "Whoosh whip": { "file": "custom6.mp3", "ru": "Хлыст", "label": "Чуть-чуть поддержки ^^" }
 }

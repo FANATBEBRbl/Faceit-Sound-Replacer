@@ -7,7 +7,6 @@ chrome.webRequest.onBeforeRequest.addListener(
     else if (details.url.includes("radio-impact-swirl.mp3")) customFile = "custom4.mp3";
     else if (details.url.includes("thunder-clap.mp3")) customFile = "custom5.mp3";
     else if (details.url.includes("whoosh-whip.mp3")) customFile = "custom6.mp3";
-    // found-tone.mp3 по умолчанию
     const customUrl = chrome.runtime.getURL("sounds/" + customFile);
     return { redirectUrl: customUrl };
   },

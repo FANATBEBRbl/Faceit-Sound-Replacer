@@ -9,8 +9,10 @@ function loadConfigAndApply() {
     .then(config => {
       Object.keys(config).forEach(key => {
         replacements[key] = config[key].label;
+        if (config[key].ru) {
+          replacements[config[key].ru] = config[key].label;
+        }
       });
-      // Запускаем замену сразу и повторно при изменениях DOM
       replaceSoundTexts();
       const observer = new MutationObserver(replaceSoundTexts);
       observer.observe(document.body, { childList: true, subtree: true });
@@ -18,7 +20,6 @@ function loadConfigAndApply() {
       addInputListeners();
     })
     .catch(() => {
-      // fallback: дефолтные надписи
       const defaultLabels = {
         "Found tone": "custom_sound1",
         "Found tone enhanced": "custom_sound2",

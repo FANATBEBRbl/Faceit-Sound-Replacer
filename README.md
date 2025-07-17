@@ -1,6 +1,6 @@
 # Faceit Sound Replacer
 
-![Логотип](https://imgur.com/AxCX0xG)
+![Логотип](https://i.imgur.com/AxCX0xG.png)
 
 ## Описание
 Расширение для браузера, позволяющее заменить стандартные звуки принятия игры Faceit на свои.

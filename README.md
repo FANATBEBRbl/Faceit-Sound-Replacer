@@ -11,8 +11,9 @@
 
 ### Установка
 1. Скачайте или склонируйте репозиторий.
-2. Откройте браузер → откройте chrome://extensions в строке поиска → Включите "Режим разработчика".
-3. Нажмите "Загрузить распакованное расширение" и выберите папку с этим проектом.
+2. Распакуйте его
+3. Откройте браузер → откройте chrome://extensions в строке поиска → Включите "Режим разработчика".
+4. Нажмите "Загрузить распакованное расширение" и выберите папку с этим проектом.
 
 > [!WARNING]
 > Google Chrome прекратил поддержку Manifest v2 и в следствии этого 
@@ -53,13 +54,14 @@ Browser extension that allows you to replace the standard Faceit game acceptance
 
 ### Installation
 1. Download or clone the repository.
-2. Open your browser → open chrome://extensions in the search bar → Enable "Developer Mode".
-3. Click "Download unzipped extension" and select the folder with this project.
+2. Unzip it
+3. Open your browser → open chrome://extensions in the search bar → Enable "Developer Mode".
+4. Click "Download unzipped extension" and select the folder with this project.
 
 > [!WARNING]
 > Google Chrome has stopped supporting Manifest v2 and as a result 
 > it is not possible to run the extension without preconfiguring the browser.
-> - Solution [*knock*](https://telegra.ph/Vklyuchenie-Manifest-v2-v-Google-Chrome-07-17)
+> - Solution [*click*](https://telegra.ph/Vklyuchenie-Manifest-v2-v-Google-Chrome-07-17)
 
 > It is not possible to migrate the extension to Manifest v3.
 

@@ -14,13 +14,13 @@
   },
   "web_accessible_resources": [
   "sounds/config.json",
-  "sounds/custom.mp3",
   "sounds/custom1.mp3",
   "sounds/custom2.mp3",
   "sounds/custom3.mp3",
   "sounds/custom4.mp3",
   "sounds/custom5.mp3",
-  "sounds/custom6.mp3"
+  "sounds/custom6.mp3",
+  "sounds/custom7.mp3"
   ],
   "browser_action": {
     "default_popup": "main.html",
